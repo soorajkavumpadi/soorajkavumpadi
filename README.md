@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @soorajkavumpadi
+- 👀 I’m interested in machine learning, data science, web and mobile apps
+- 🌱 I’m currently into ml, VueJS and other new JS stuff
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me on https://www.inkedin.com/in/sooraj-kavumpadi
+
 <!--
 **soorajkavumpadi/soorajkavumpadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
